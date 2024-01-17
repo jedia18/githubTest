@@ -1,2 +1,3 @@
 hello
-this is a test for conflict from the local repository changes.
+this is a test for conflict.
+local repository changes.
